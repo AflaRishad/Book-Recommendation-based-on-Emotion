@@ -1,0 +1,28 @@
+book_id,title,author,genre,emotion_tags,mood,length,language,description
+1,The Little Prince,Antoine de Saint Exupery,Fiction,Happy Sad,Calm,Short,English,Gentle philosophical story
+2,Jonathan Livingston Seagull,Richard Bach,Fiction,Happy Sad,Calm,Short,English,Peaceful story of purpose
+3,The Old Man and the Sea,Ernest Hemingway,Fiction,Happy Sad,Calm,Long,English,Calm perseverance story
+4,Of Mice and Men,John Steinbeck,Fiction,Sad,Calm,Short,English,Quiet emotional friendship
+5,The Blue Umbrella,Ruskin Bond,Fiction,Happy Sad,Calm,Short,English,Comforting nature story
+6,The Room on the Roof,Ruskin Bond,Fiction,Happy,Calm,Short,English,Coming of age calm story
+7,Harry Potter,J K Rowling,Fiction,Happy,Fun,Long,English,Magical fantasy adventure
+8,The Hobbit,J R R Tolkien,Fiction,Happy,Fun,Long,English,Fantasy journey
+9,Animal Farm,George Orwell,Fiction,Angry Neutral,Realistic,Short,English,Political allegory
+10,1984,George Orwell,Fiction,Angry Neutral,Realistic,Long,English,Dystopian fiction
+
+11,Atomic Habits,James Clear,SelfHelp,Happy Sad,Uplifting,Short,English,Self improvement habits
+12,Ikigai,Hector Garcia,SelfHelp,Sad Neutral,Calm,Short,English,Meaningful calm living
+13,The Power of Now,Eckhart Tolle,SelfHelp,Sad Angry,Calm,Long,English,Mindfulness and peace
+14,Think Like a Monk,Jay Shetty,SelfHelp,Sad Happy,Calm,Long,English,Inner peace guide
+15,Good Vibes Good Life,Vex King,SelfHelp,Sad Happy,Uplifting,Short,English,Positive thinking
+16,Who Moved My Cheese,Spencer Johnson,SelfHelp,Happy Sad,Uplifting,Short,English,Handling change
+17,The Monk Who Sold His Ferrari,Robin Sharma,SelfHelp,Sad Happy,Uplifting,Long,English,Life balance
+
+18,Balyakalasakhi,Vaikom Muhammad Basheer,Fiction,Sad,Calm,Long,Malayalam,Classic emotional novel
+19,Pathummayude Aadu,Vaikom Muhammad Basheer,Fiction,Happy,Fun,Short,Malayalam,Humorous family life
+20,Mathilukal,Vaikom Muhammad Basheer,Fiction,Sad,Calm,Short,Malayalam,Romantic prison story
+21,Chemmeen,Thakazhi,Fiction,Sad,Realistic,Long,Malayalam,Tragic coastal love
+22,Naalukettu,M T Vasudevan Nair,Fiction,Sad,Calm,Long,Malayalam,Joint family life
+23,Manju,M T Vasudevan Nair,Fiction,Sad,Calm,Short,Malayalam,Emotional introspection
+24,Randamoozham,M T Vasudevan Nair,Fiction,Neutral,Realistic,Long,Malayalam,Mythological realism
+25,Aadujeevitham,Benyamin,Fiction,Sad,Realistic,Long,Malayalam,Survival story
